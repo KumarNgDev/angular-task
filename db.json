@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "Kumar ",
+      "lastname": "Dm",
+      "email": "dmkumar@gmail.com",
+      "phone": 9902453151,
+      "company": "Ymts",
+      "gender": "M",
+      "dob": "2022-10-01",
+      "password": "abc",
+      "cpassword": "abc"
+    },
+    {
+      "id": 3,
+      "firstname": "Ashok",
+      "lastname": "B",
+      "email": "ashok@gmail.com",
+      "phone": 5354343,
+      "company": "CTSssss",
+      "gender": "M",
+      "dob": "2022-10-01",
+      "password": "123",
+      "cpassword": "123"
+    },
+    {
+      "id": 4,
+      "firstname": "John",
+      "lastname": "Martin",
+      "email": "john@gmailc.om",
+      "phone": 1515555,
+      "company": "Infosys",
+      "gender": "M",
+      "dob": "2022-10-21",
+      "password": "123",
+      "cpassword": "123"
+    },
+    {
+      "id": 5,
+      "firstname": "Kumar",
+      "lastname": "Dm",
+      "email": "dm@123",
+      "phone": 12121,
+      "company": "gff",
+      "gender": "M",
+      "dob": "2022-10-01",
+      "password": "qwqwqwqw",
+      "cpassword": "qwwewe"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
